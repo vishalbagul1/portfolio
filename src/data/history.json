@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Plixx.co.in",
+    "startDate": "March, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["React JS, Tailwind CSS, Node JS"],
+    "imageSrc": "history/google.png"
+  }
+]
